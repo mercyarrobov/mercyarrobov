@@ -1,6 +1,5 @@
-# Mercy Arrobo
 
-¡Hola! 👋 Soy Mercy Arrobo
+# ¡Hola! 👋 Soy Mercy Arrobo
 
 ## Sobre mí
 
