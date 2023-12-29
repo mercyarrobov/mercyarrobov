@@ -1,16 +1,27 @@
-### Hi there 👋
+# Mercy Arrobo
 
-<!--
-**mercyarrobov/mercyarrobov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy Mercy Arrobo
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Estudiante de Tecnologías de la Información.
+- 💻 Aprendiendo desarrollo frontend y backend.
+- 🌐 Interesada en tecnologías web y desarrollo de software.
+
+## Habilidades
+
+- **Lenguajes de Programación:** Java,TypeScript, JavaScript, Python y PHP.
+- **Frameworks:** Laravel, Angular, Node.js, Flask y Spring Boot.
+- **Herramientas:** Git, VS Code, etc.
+- **Base de Datos: ** MySQL, SQL Server y MongoDB.
+
+## Metas
+
+Mis metas incluyen:
+
+- Aprender y dominar tecnologías frontend y backend.
+- Contribuir a proyectos de código abierto.
+- Explorar nuevas tendencias y avances en el mundo del desarrollo de software.
+
+
+¡Gracias por visitar mi perfil! 😊
