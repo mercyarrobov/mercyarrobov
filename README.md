@@ -8,9 +8,9 @@
 ## Habilidades
 
 - **Lenguajes de Programación:** Java, TypeScript, JavaScript, Python y PHP.
-- **Frameworks:** Laravel, Angular, Node.js, y Spring Boot.
+- **Frameworks:** Laravel, Angular, Node.js y Spring Boot.
 - **Herramientas:** Git, VS Code, etc.
-- **Base de Datos: ** MySQL, SQL Server y MongoDB.
+- **Base de Datos:** MySQL, SQL Server y MongoDB.
 
 ## Metas
 
