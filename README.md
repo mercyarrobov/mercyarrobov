@@ -1,4 +1,4 @@
-![head.png](https://github.com/mercyarrobov/mercyarrobov/blob/main/Profilehead.png)
+![head.png,with:100%](https://github.com/mercyarrobov/mercyarrobov/blob/main/Profilehead.png)
 
 ## Sobre mí
 
