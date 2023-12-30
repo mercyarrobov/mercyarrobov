@@ -1,7 +1,5 @@
 ![head.png](https://github.com/mercyarrobov/mercyarrobov/blob/main/Profilehead.png)
 
-# ¡Hola! 👋 Soy Mercy Arrobo
-
 ## Sobre mí
 
 - 📚 Estudiante de Tecnologías de la Información.
